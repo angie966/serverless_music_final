@@ -1,0 +1,19 @@
+{
+  "name": "serverless_final",
+  "version": "1.0.0",
+  "description": "music streaming demo app using serverless and AWS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angie966/serverless_music_final.git"
+  },
+  "author": "Angad bhatti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angie966/serverless_music_final/issues"
+  },
+  "homepage": "https://github.com/angie966/serverless_music_final#readme"
+}
